@@ -78,43 +78,14 @@ nikvalkyr@github
 
 </p>
 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                114 commits         ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-🌆 Daytime                238 commits         ████████████░░░░░░░░░░░░░   48.18 % 
-🌃 Evening                113 commits         ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
-🌙 Night                  29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+**📂 What I'm Archiving** 
+
 ```
-
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   70 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Tuesday                  118 commits         ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
-Wednesday                57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Thursday                 153 commits         ████████░░░░░░░░░░░░░░░░░   30.97 % 
-Friday                   65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Saturday                 9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-Sunday                   22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-```
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-C++                      6 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   40.07 % 
-Markdown                 2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-Python                   2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-TeX                      2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-YAML                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-
-🐱‍💻 Projects: 
-leetcode                 6 hrs 33 mins       ███████████░░░░░░░░░░░░░░   42.16 % 
-hackmd-readme-stats      2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-mlir-sparseMatrixKernels 2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-thesis                   1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-nikvalkyr                1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+🧬 Biology                ██████████████░░░░░░░░░░░   ~40% 
+🧠 Philosophy             ████████░░░░░░░░░░░░░░░░░   ~25% 
+🩺 Health & Wellness      ██████░░░░░░░░░░░░░░░░░░░   ~20% 
+💻 Coding Notes           ████░░░░░░░░░░░░░░░░░░░░░   ~15%
 ```
 <!--END_SECTION:waka-->
 
