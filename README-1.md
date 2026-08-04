@@ -33,36 +33,44 @@ nikvalkyr@github
 
 <h2 align="center">Ignorance makes you confused.</h2>
 
+────୨ৎ──── **173,355** Nikvalkyr **131** Vanadis ────୨ৎ────
 
 <h2 align="center">CONTACT</h2>
 
-<div align="center">
-  <img src="assets/contact_pic.gif" align="left" width="300" height="auto">
+<table>
+  <tr>
+    <td width="300" valign="middle">
+      <img src="assets/contact_pic.gif" width="300" height="auto">
+    </td>
+    <td align="center" valign="middle">
+      something needs to be questioned for its truth, have you ever thought about what the meaning of your life is?
+      <br>
+      contact me if you have any questions or just want to chat.
+      <br><br>
+      ❀˚✿˖°❀˖°✿˖❀˖°
+      <br><br>
+      <a href="mailto:nikvalkyr@naver.com" target="_blank">
+        <img src="https://img.shields.io/badge/asymptote069-white?style=for-the-badge&logo=gmail&logoColor=%23EA4335&logoSize=auto&labelColor=f9e0ea" alt="Email Badge"/>
+      </a>
+      <a href="https://instagram.com/nikvalkyr" target="_blank">
+        <img src="https://img.shields.io/badge/%20pipi.__.bear-white?style=for-the-badge&logo=instagram&logoColor=%23FF0069&logoSize=auto&labelColor=f9e0ea" alt="Instagram Badge"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <p align="center">
-    something needs to be questioned for its truth, have you ever thought about what the meaning of your life is?
-    <br>
-    contact me if you have any questions or just want to chat.
-    <br><br>
-    ❀˚✿˖°❀˖°✿˖❀˖°
-  </p>
-
-  <p align="center">
-    <a href="mailto:nikvalkyr@naver.com" target="_blank">
-      <img src="https://img.shields.io/badge/asymptote069-white?style=for-the-badge&logo=gmail&logoColor=%23EA4335&logoSize=auto&labelColor=f9e0ea" alt="Email Badge"/>
-    </a>
-    <a href="https://instagram.com/nikvalkyr" target="_blank">
-      <img src="https://img.shields.io/badge/%20pipi.__.bear-white?style=for-the-badge&logo=instagram&logoColor=%23FF0069&logoSize=auto&labelColor=f9e0ea" alt="Instagram Badge"/>
-    </a>
-  </p>
-</div>
-<br clear="left">
-
+<br><br>
 
 [![nikvalkyr's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nikvalkyr&bg_color=f9d9dd&color=fffcfd&point=f5c0c7&line=fef8f9)](https://github.com/nikvalkyr/github-readme-activity-graph)
 
+<br>
+
 <!--START_SECTION:waka-->
+<p align="center">
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-417%20hrs-blue?style=flat)
+
+</p>
 
 **I'm an Early 🐤** 
 
@@ -103,3 +111,4 @@ thesis                   1 hr 59 mins        ███░░░░░░░░�
 nikvalkyr                1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
 ```
 <!--END_SECTION:waka-->
+
