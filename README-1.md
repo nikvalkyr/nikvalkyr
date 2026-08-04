@@ -1,5 +1,6 @@
+<p align="center"> 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cutive+Mono&pause=1000&color=a8c6e0&center=true&vCenter=true&width=450&lines=Nikvalkyr'Iam'here+你好+ಠ⁠﹏⁠ಠ)](https://git.io/typing-svg)
-
+</p>
 <!---
 Show profile views
 -->
