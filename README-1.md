@@ -14,13 +14,19 @@ Show profile views
 ```
 nikvalkyr@github
 -------------------------
-🏫 NTU CSIE
-📜 Chinese Literature in undergrad, fell in love with math, CS in grad :3
-🌱 Working on Compiler optimization 
-💫 Languages: C, C++, Python 
-✏️ Keen on crafting neat, beautiful LaTeX HW
-🏃‍♀️ Marathon / hiking / cycling
-🎵 Check my great musical taste below ჱ̒⸝⸝•̀֊•́⸝⸝)♡
+🏫 Outstadt
+📜 Background in Humanities, now diving into Science & Philosophy
+🏃‍♀️ Game / Peace / Silence
+🔬 Independent Scientist & Self-Taught Learner
+📚 Archiving notes on Biology, Philosophy & Health
+🧠 Turning scattered knowledge into structured summaries
+🔎 Curious about how things work, from cells to ideas
+📝 Keeps a personal archive as both memory and reference
+🌱 Always learning, always questioning
+💻 Coding: Node.js, Python, Static Site Generators
+✏️ Keen on crafting neat, beautiful notes
+📖 Believes understanding beats memorizing
+🎵 Check my music taste on my website below ჱ̒⸝⸝•̀֊•́⸝⸝)♡
 ```
 </p>
 
