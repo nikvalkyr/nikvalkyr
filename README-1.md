@@ -33,7 +33,6 @@ nikvalkyr@github
 
 <h2 align="center">Ignorance makes you confused.</h2>
 
-────୨ৎ──── **173,355** Nikvalkyr **131** Vanadis ────୨ৎ────
 
 <h2 align="center">CONTACT</h2>
 
@@ -58,6 +57,7 @@ nikvalkyr@github
   </p>
 </div>
 <br clear="left">
+
 
 [![nikvalkyr's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nikvalkyr&bg_color=f9d9dd&color=fffcfd&point=f5c0c7&line=fef8f9)](https://github.com/nikvalkyr/github-readme-activity-graph)
 
