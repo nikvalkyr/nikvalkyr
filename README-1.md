@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cutive+Mono&pause=1000&color=efadc9&center=true&vCenter=true&width=450&lines=Nikvalkyr'Iam'here+你好+ಠ⁠﹏⁠ಠ)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cutive+Mono&pause=1000&color=a8c6e0&center=true&vCenter=true&width=450&lines=Nikvalkyr'Iam'here+你好+ಠ⁠﹏⁠ಠ)](https://git.io/typing-svg)
 
 <!---
 Show profile views
@@ -76,7 +76,7 @@ nikvalkyr@github
 
 <br><br>
 
-[![nikvalkyr's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nikvalkyr&bg_color=f9d9dd&color=2b3a55&point=f5c0c7&line=fef8f9)](https://github.com/nikvalkyr/github-readme-activity-graph)
+[![nikvalkyr's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nikvalkyr&bg_color=a8c6e0&color=2b3a55&point=f5c0c7&line=fef8f9)](https://github.com/nikvalkyr/github-readme-activity-graph)
 
 <br>
 
