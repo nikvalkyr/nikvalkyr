@@ -6,7 +6,7 @@ Show profile views
   <img src="https://komarev.com/ghpvc/?username=nikvalkyr&color=a8c6e0&style=for-the-badge">
 </p>
 <br>
-
+<img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 <p>
 <img align="left" src="assets/profile_pic.png" width="300" />
 
