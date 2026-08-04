@@ -4,7 +4,7 @@
 Show profile views
 -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikvalkyr&color=ffd3d9&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=nikvalkyr&color=a8c6e0&style=for-the-badge">
 </p>
 <br>
 
