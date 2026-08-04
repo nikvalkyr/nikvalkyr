@@ -1,6 +1,4 @@
-<p align="center"> 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cutive+Mono&pause=1000&color=a8c6e0&center=true&vCenter=true&width=450&lines=Nikvalkyr'Iam'here+你好+ಠ⁠﹏⁠ಠ)](https://git.io/typing-svg)
-</p>
 <!---
 Show profile views
 -->
@@ -40,7 +38,20 @@ nikvalkyr@github
 
 <h2 align="center">Ignorance makes you confused.</h2>
 
+**📂 What I'm Archiving** 
 
+```
+🧬 Biology                ██████████████░░░░░░░░░░░   ~40% 
+🧠 Philosophy             ████████░░░░░░░░░░░░░░░░░   ~25% 
+🩺 Health & Wellness      ██████░░░░░░░░░░░░░░░░░░░   ~20% 
+💻 Coding Notes           ████░░░░░░░░░░░░░░░░░░░░░   ~15%
+```
+
+<p align="center">
+
+![Code Time](http://img.shields.io/badge/Code%20Time-417%20hrs-blue?style=flat)
+
+</p>
 
 <h2 align="center">CONTACT</h2>
 
@@ -72,21 +83,5 @@ nikvalkyr@github
 
 <br>
 
-
-<p align="center">
-
-![Code Time](http://img.shields.io/badge/Code%20Time-417%20hrs-blue?style=flat)
-
-</p>
-
-
-**📂 What I'm Archiving** 
-
-```
-🧬 Biology                ██████████████░░░░░░░░░░░   ~40% 
-🧠 Philosophy             ████████░░░░░░░░░░░░░░░░░   ~25% 
-🩺 Health & Wellness      ██████░░░░░░░░░░░░░░░░░░░   ~20% 
-💻 Coding Notes           ████░░░░░░░░░░░░░░░░░░░░░   ~15%
-```
 <!--END_SECTION:waka-->
 
