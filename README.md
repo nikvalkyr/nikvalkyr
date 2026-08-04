@@ -30,6 +30,7 @@ nikvalkyr@github
 
 
 
+
 <h2 align="center"> Biology analysis independent scientists</h2>
 <p align="center">
   <img src="assets/Study.gif" style="max-width: 100%;">
@@ -45,6 +46,7 @@ nikvalkyr@github
 
 
 <h2 align="center"> CONTACT</h>
+
 <div align="center">
   <img src="assets/contact_pic.gif" 
     align="left" 
