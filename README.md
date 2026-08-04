@@ -47,11 +47,9 @@ nikvalkyr@github
 💻 Coding Notes           ████░░░░░░░░░░░░░░░░░░░░░   ~15%
 ```
 
-<p align="center">
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-417%20hrs-blue?style=flat)
 
-</p>
 
 <h2 align="center">CONTACT</h2>
 
