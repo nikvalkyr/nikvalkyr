@@ -65,7 +65,7 @@ nikvalkyr@github
 
 <br>
 
-<!--START_SECTION:waka-->
+
 <p align="center">
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-417%20hrs-blue?style=flat)
