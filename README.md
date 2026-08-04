@@ -27,7 +27,6 @@ nikvalkyr@github
 
 
 
-[![nikvalkyr's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nikvalkyr&bg_color=f9d9dd&color=fffcfd&point=f5c0c7&line=fef8f9)](https://github.com/nikvalkyr/github-readme-activity-graph)
 
 
 
@@ -76,20 +75,15 @@ nikvalkyr@github
 <br>
 
 
-<!---
-Generate top languages, for more info, see:
-https://github.com/anuraghazra/github-readme-stats
--->
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikvalkyr&layout=compact" alt="Top Langs" />
-  </a>
-</p> 
 
 
-<!---
-Generate waka stats
--->
+
+[![nikvalkyr's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nikvalkyr&bg_color=f9d9dd&color=fffcfd&point=f5c0c7&line=fef8f9)](https://github.com/nikvalkyr/github-readme-activity-graph)
+
+
+
+
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-417%20hrs-blue?style=flat)
 
