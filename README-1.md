@@ -65,10 +65,10 @@ nikvalkyr@github
       ❀˚✿˖°❀˖°✿˖❀˖°
       <br><br>
       <a href="mailto:nikvalkyr@naver.com" target="_blank">
-        <img src="https://img.shields.io/badge/asymptote069-white?style=for-the-badge&logo=gmail&logoColor=%23EA4335&logoSize=auto&labelColor=f9e0ea" alt="Email Badge"/>
+        <img src="https://img.shields.io/badge/nikvalkyr-white?style=for-the-badge&logo=gmail&logoColor=%23EA4335&logoSize=auto&labelColor=f9e0ea" alt="Email Badge"/>
       </a>
       <a href="https://instagram.com/nikvalkyr" target="_blank">
-        <img src="https://img.shields.io/badge/%20pipi.__.bear-white?style=for-the-badge&logo=instagram&logoColor=%23FF0069&logoSize=auto&labelColor=f9e0ea" alt="Instagram Badge"/>
+        <img src="https://img.shields.io/badge/%20nikvalkyr-white?style=for-the-badge&logo=instagram&logoColor=%23FF0069&logoSize=auto&labelColor=f9e0ea" alt="Instagram Badge"/>
       </a>
     </td>
   </tr>
