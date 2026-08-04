@@ -76,7 +76,7 @@ nikvalkyr@github
 
 <br><br>
 
-[![nikvalkyr's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nikvalkyr&bg_color=f9d9dd&color=fffcfd&point=f5c0c7&line=fef8f9)](https://github.com/nikvalkyr/github-readme-activity-graph)
+[![nikvalkyr's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nikvalkyr&bg_color=f9d9dd&color=2b3a55&point=f5c0c7&line=fef8f9)](https://github.com/nikvalkyr/github-readme-activity-graph)
 
 <br>
 
